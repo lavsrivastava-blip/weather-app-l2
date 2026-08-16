@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "Get current weather, 7-day forecasts, and planning recommendations using Open-Meteo API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
